@@ -259,9 +259,6 @@ ul {
   margin: 5rem auto;
   max-width: var(--max-width);
 }
-.job-info {
-  /* width: 80vw; */
-}
 
 .btn-container {
   display: flex;
