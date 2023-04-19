@@ -6,7 +6,7 @@ const JobInfo = ({ jobs }) => {
   return (
     <article className="job-info">
       <h3>{title}</h3>
-      <span className="job-company">{company}</span>
+      <span className="job-company">{company} inc</span>
       <p className="job-date">{dates}</p>
       <Duties duties={duties} />
     </article>
