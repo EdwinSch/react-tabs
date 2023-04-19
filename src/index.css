@@ -260,7 +260,7 @@ ul {
   max-width: var(--max-width);
 }
 .job-info {
-  width: 80vw;
+  /* width: 80vw; */
 }
 
 .btn-container {
